@@ -1,0 +1,7 @@
+sounddevice
+soundfile
+pydub
+requests
+pyyaml
+pyqt5
+nltk
